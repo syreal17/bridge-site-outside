@@ -14,7 +14,7 @@ Codex one-shot transformed the blue square into an animated sprite that Nano
 Banana made based on a charas example spritesheet. I also made a Dryad
 spritesheet.
 
-![Animated player movement](/images/3-april-26-walking.gif)
+![Animated player movement](../images/3-april-26-walking.gif)
 
 ## To Do
 
